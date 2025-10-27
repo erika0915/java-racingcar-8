@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class RacingGameController {
+public class RacingGame {
 
     public void run() {
         List<Car> cars = setupCars();
